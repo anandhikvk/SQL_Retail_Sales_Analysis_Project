@@ -213,7 +213,7 @@ This project serves as an introduction to SQL for covering database setup, data 
 
 ## Author - Anandhi Kamalakannan
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. 
+This project is part of my portfolio, showcasing my SQL skills. 
 
 
 
